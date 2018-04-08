@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Weiherhammer</string>
+    <string name="category_places">Places</string>
+    <string name="category_info">Info</string>
+    <string name="category_species">Shops</string>
+    <string name="category_food">Food</string>
+    <string name="food_nahkauf_name">Nahkauf</string>
+    <string name="food_nahkauf_description">Grocery store with a variety of products for daily use and food.</string>
+    <string name="food_nahkauf_address">Sägstraße 18, 92729 Weiherhammer</string>
+    <string name="food_nahkauf_phone">+49 9605 922792</string>
+    <string name="food_nahkauf_schedule">Mo-Sa 08:00–20:00</string>
+    <string name="food_price">1-50€</string>
+    <string name="food_manuela_name">Pizzeria Manuela</string>
+    <string name="food_manuela_description">Italian Food.</string>
+    <string name="food_manuela_address">Hauptstraße 20, 92729 Weiherhammer</string>
+    <string name="food_manuela_phone">+49 09605 2447</string>
+    <string name="food_manuela_schedule">Mo-Sa 11:00–14:00, 17:00–00:00 / Tu Closed </string>
+    <string name="food_tapas_name">Cafe Tapas</string>
+    <string name="food_tapas_description">Late-night food · Breakfast · Outdoor seatin</string>
+    <string name="food_tapas_address">Hauptstraße 3, 92729 Weiherhammer</string>
+    <string name="food_tapas_phone">+49 9605 6690012</string>
+    <string name="food_tapas_schedule">Tu-So 09:00–22:00</string>
+    <string name="species_piltze_name">Steinpilze</string>
+    <string name="species_piltze_description">Natural mushrooms from the forests of Germany. People pick them up from the woods and cook them in a sauce.</string>
+    <string name="species_swan_name">Swan</string>
+    <string name="species_swan_description">The swans are natural animals of the area, they swim in the lake of Weiherhammer.</string>
+    <string name="species_Birch_name">Birch</string>
+    <string name="species_Birch_description">Birch is a natural tree in the area.</string>
+    <string name="species_Black_name">Black-Headed Gull</string>
+    <string name="species_Black_description">Black-headed gull is a natural gull in the area. You can find it in the lake of Weiherhammer.</string>
+    <string name="place_lake_name">The Lake of Weiherhammer</string>
+    <string name="place_lake_description">Beautiful lake, you can take a walk to its surroundings and admire the beautiful natural and plant fauna of the area. Also in winter is the most visited place to perform activities such as ice skating or hokey.</string>
+    <string name="place_lake_address">Hauptstraße 3, 92729 Weiherhammer</string>
+    <string name="place_fishing_name">Fishing</string>
+    <string name="place_fishing_description">Here you can find many lakes where you can enjoy fishing.</string>
+    <string name="place_hunting_name">Hunting</string>
+    <string name="place_hunting_description">Here you can find many forest where you can enjoy hunting.</string>
+</resources>
+

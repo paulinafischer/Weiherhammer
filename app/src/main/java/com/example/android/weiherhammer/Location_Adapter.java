@@ -1,5 +1,6 @@
 package com.example.android.weiherhammer;
 
+import android.content.Context;
 import android.location.Location;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -15,7 +16,7 @@ import java.util.List;
  */
 
 public class Location_Adapter extends ArrayAdapter<Location> {
-    public Location_Adapter(C ontext context, int resources, List<Location> locationsList) {
+    public Location_Adapter(Context context, int resources, List<Location> locationsList) {
         super(context, 0, locationsList);
     }
 

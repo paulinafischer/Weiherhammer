@@ -1,7 +1,7 @@
 package com.example.android.weiherhammer;
 
 import android.content.Context;
-import android.location.Location;
+
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -23,10 +23,10 @@ public class PlacesFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
         List<Location> list = new ArrayList<>();
-        Places.initSightsList(list, getContext());
+        Places.initPlacesList(list, getContext());
 
         Location_Adapter adapter = new Location_Adapter(getActivity(), -1, list);
-        View view = inflater.inflate(R.layout.locations_list, container, false);
+        View view = inflater.inflate(R.layout.location_list, container, false);
         ListView listView = (ListView) view.findViewById(R.id.listView);
 
         listView.setAdapter(adapter);

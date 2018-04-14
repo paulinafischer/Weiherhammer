@@ -1,14 +1,11 @@
 package com.example.android.weiherhammer;
 
 import android.content.Context;
-import android.location.Location;
-
 import java.util.List;
 
 /**
  * Created by Paulina on 4/8/2018.
  */
-
 
 public class Food {
     public static void initFoodsList(List<Location> list, Context context) {

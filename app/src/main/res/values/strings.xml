@@ -31,9 +31,18 @@
     <string name="place_lake_name">The Lake of Weiherhammer</string>
     <string name="place_lake_description">Beautiful lake, you can take a walk to its surroundings and admire the beautiful natural and plant fauna of the area. Also in winter is the most visited place to perform activities such as ice skating or hokey.</string>
     <string name="place_lake_address">Hauptstraße 3, 92729 Weiherhammer</string>
+    <string name="place_lake_phone">none</string>
+    <string name="place_lake_schedule">Always open</string>
     <string name="place_fishing_name">Fishing</string>
     <string name="place_fishing_description">Here you can find many lakes where you can enjoy fishing.</string>
-    <string name="place_hunting_name">Hunting</string>
-    <string name="place_hunting_description">Here you can find many forest where you can enjoy hunting.</string>
+    <string name="place_fishing_address">Hauptstraße 3, 92729 Weiherhammer</string>
+    <string name="place_fishing_phone">none</string>
+    <string name="place_fishing_schedule">Always open</string>
+    <string name="place_photography_name">Photography</string>
+    <string name="place_photography_description">Here you can find many forest like Game of Thrones where you can enjoy taking photos.</string>
+    <string name="place_photography_address">Hauptstraße 3, 92729 Weiherhammer</string>
+    <string name="place_photography_phone">none</string>
+    <string name="place_photography_schedule">Always open</string>
+    <string name="price">Free</string>
 </resources>
 

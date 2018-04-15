@@ -1,8 +1,6 @@
 package com.example.android.weiherhammer;
 
 import android.content.Context;
-
-
 import java.util.List;
 
 /**
@@ -20,7 +18,6 @@ public class Species {
                 null,
                 null,
                 R.drawable.steinpiltze
-
         ));
 
         list.add(new Location(

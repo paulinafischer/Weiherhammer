@@ -2,7 +2,7 @@
     <string name="app_name">Weiherhammer</string>
     <string name="category_places">Places</string>
     <string name="category_info">Info</string>
-    <string name="category_species">Shops</string>
+    <string name="category_species">Species</string>
     <string name="category_food">Food</string>
     <string name="food_nahkauf_name">Nahkauf</string>
     <string name="food_nahkauf_description">Grocery store with a variety of products for daily use and food.</string>

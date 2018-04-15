@@ -13,7 +13,7 @@ public class Places {
         list.add(new Location(
                 context.getString(R.string.place_lake_name),
                 context.getString(R.string.place_lake_description),
-               null,
+                null,
                 null,
                 context.getString(R.string.place_lake_schedule),
                 context.getString(R.string.price),

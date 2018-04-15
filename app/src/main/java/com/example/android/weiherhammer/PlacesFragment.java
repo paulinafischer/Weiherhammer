@@ -28,6 +28,5 @@ public class PlacesFragment extends Fragment {
 
         return view;
     }
-
 }
 

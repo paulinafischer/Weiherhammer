@@ -14,7 +14,7 @@ public class Species {
                 context.getString(R.string.species_piltze_name),
                 context.getString(R.string.species_piltze_description),
                 null,
-                 null,
+                null,
                 null,
                 null,
                 R.drawable.steinpiltze
@@ -28,7 +28,7 @@ public class Species {
                 null,
                 null,
                 R.drawable.cisne
-                ));
+        ));
 
         list.add(new Location(
                 context.getString(R.string.species_Birch_name),

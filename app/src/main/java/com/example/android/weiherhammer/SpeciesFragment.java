@@ -1,7 +1,6 @@
 package com.example.android.weiherhammer;
 
 
-
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -11,10 +10,6 @@ import android.view.ViewGroup;
 import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.List;
-
-/**
- * A simple {@link Fragment} subclass.
- */
 
 public class SpeciesFragment extends Fragment {
 

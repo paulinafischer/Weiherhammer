@@ -22,16 +22,13 @@
     <string name="food_tapas_phone">+49 9605 6690012</string>
     <string name="food_tapas_schedule">Tu-So 09:00–22:00</string>
     <string name="species_piltze_name">Steinpilze</string>
-    <string name="species_piltze_description">Natural mushrooms from the forests of Germany. People
-        pick them up from the woods and cook them in a sauce.</string>
+    <string name="species_piltze_description">Natural mushrooms from the forests of Germany.\nPeople pick them up from the woods and cook them in a sauce.</string>
     <string name="species_swan_name">Swan</string>
-    <string name="species_swan_description">The swans are natural animals of the area, they swim in
-        the lake of Weiherhammer.</string>
+    <string name="species_swan_description">The swans are natural animals of the area,\nthey swim in the lake of Weiherhammer.</string>
     <string name="species_Birch_name">Birch</string>
     <string name="species_Birch_description">Birch is a natural tree in the area.</string>
     <string name="species_Black_name">Black-Headed Gull</string>
-    <string name="species_Black_description">Black-headed gull is a natural gull in the area. You
-        can find it in the lake of Weiherhammer.</string>
+    <string name="species_Black_description">Black-headed gull is a natural gull in the area. You \n can find it in the lake of Weiherhammer.</string>
     <string name="place_lake_name">The Lake of Weiherhammer</string>
     <string name="place_lake_description">Beautiful lake, you can take a walk to its surroundings
         and admire the beautiful natural and plant fauna of the area. Also in winter is the most

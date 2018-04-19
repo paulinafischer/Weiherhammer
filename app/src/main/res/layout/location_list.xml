@@ -6,6 +6,7 @@
     android:orientation="vertical"
     android:drawSelectorOnTop="true"
     android:divider="@null"
-    android:dividerHeight="0dp">
+    android:dividerHeight="0dp"
+    android:background="@color/colorAccent">
 </ListView>
 

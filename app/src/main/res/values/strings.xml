@@ -4,6 +4,7 @@
     <string name="category_info">Info</string>
     <string name="category_species">Species</string>
     <string name="category_food">Food</string>
+    <string name="category_activities">Activities</string>
     <string name="food_nahkauf_name">Nahkauf</string>
     <string name="food_nahkauf_description">Grocery store with a variety of products for daily use
         and food.</string>
@@ -49,5 +50,8 @@
     <string name="place_photography_phone">none</string>
     <string name="place_photography_schedule">Always open</string>
     <string name="price">Free</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
 

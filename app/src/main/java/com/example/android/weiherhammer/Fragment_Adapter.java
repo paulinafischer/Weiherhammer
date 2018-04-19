@@ -25,6 +25,8 @@ public class Fragment_Adapter extends FragmentPagerAdapter {
             return new FoodFragment();
         } else if (position == 2) {
             return new SpeciesFragment();
+        } else if (position == 3) {
+            return new ActivitiesFragment();
         }
         return null;
     }
@@ -42,6 +44,8 @@ public class Fragment_Adapter extends FragmentPagerAdapter {
             return context.getString(R.string.category_food);
         } else if (position == 2) {
             return context.getString(R.string.category_species);
+        } else if (position == 3) {
+            return context.getString(R.string.category_activities);
         }
         return null;
     }
